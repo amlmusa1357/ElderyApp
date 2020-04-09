@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420787691613",
+    "firebase_url": "https://elderly-a63b2.firebaseio.com",
+    "project_id": "elderly-a63b2",
+    "storage_bucket": "elderly-a63b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420787691613:android:75fb45b991e2c2437eedb4",
+        "android_client_info": {
+          "package_name": "com.example.elderly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420787691613-b3ssd2h5bajcrkcjmd6hvcn1eeikrquu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyg3pr6RcwcbF7m82k-UH-doeN33_JCB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420787691613-b3ssd2h5bajcrkcjmd6hvcn1eeikrquu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
